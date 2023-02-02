@@ -25,8 +25,6 @@ html {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  /* max-width: 30vw; */
-  height: 400px;
 }
 
 .blurb {
